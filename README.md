@@ -71,7 +71,7 @@
   <!-- Plotly 圖表 -->
   <div id="myPlot"></div>
   <script>
-    const xArray = ["gorza", "Famas", "spas12", "USA12", "siega"];
+    const xArray = ["pp19", "mp5", "ak74n", "沙漠之鷹", "ML槓桿步槍"];
     const yArray = [55, 49, 44, 24, 90];
 
     const data = [{
@@ -83,7 +83,7 @@
     }];
 
     const layout = {
-      title: "武器使用統計圖",
+      title: "暗區突圍中我常用武器使用統計圖",
       autosize: true,
       margin: { t: 40 }
     };
@@ -92,6 +92,7 @@
   </script>
 
   <!-- YouTube 影片 -->
+   <p>這是某遊戲的主題曲</p>
   <div class="video-container">
     <iframe
       src="https://www.youtube.com/embed/pzt6SmvGpXk?list=RDpzt6SmvGpXk"
@@ -104,11 +105,14 @@
   <!-- 新增的超連結 -->
 <p style="text-align: center; margin-top: 20px;">
   👉 <a href="https://newbie123-blip.github.io/homework1/index.html" target="_blank">
-    點我前往另一人的作業頁面
+    點我前往一個同學的作業頁面
+  </a><br><br>
+  👉 <a href="https://a6706976-5455.github.io/the-internet-homework/" target="_blank">
+    點我前往另一個同學的作業頁面
   </a>
 </p>
 
 
+
 </body>
 </html>
-
