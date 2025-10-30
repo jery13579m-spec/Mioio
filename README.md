@@ -101,6 +101,14 @@
       allowfullscreen>
     </iframe>
   </div>
+  <!-- 新增的超連結 -->
+<p style="text-align: center; margin-top: 20px;">
+  👉 <a href="https://newbie123-blip.github.io/homework1/index.html" target="_blank">
+    點我前往另一人的作業頁面
+  </a>
+</p>
+
 
 </body>
 </html>
+
